@@ -9,8 +9,8 @@
   <br/>
 
   <p align="center">
-    <a href="mailto:navyashree795@gmail.com">
-      <img src="https://img.shields.io/badge/Email-navyashree795%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:navyashrees795@gmail.com">
+      <img src="https://img.shields.io/badge/Email-navyashrees795%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/navyashree795">
       <img src="https://img.shields.io/badge/GitHub-navyashree795-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
